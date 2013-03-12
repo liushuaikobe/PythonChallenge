@@ -1,6 +1,6 @@
 import bz2
 
-# It must be admitted that I found bzip2 via searching Internet
+# It must be admitted that I found bzip2 via Google 
 # It said that 'BZh91AY' is a typical header of a bzip2 sequence
 # wikipedia(in Chinese):http://zh.wikipedia.org/wiki/Bzip2
 
